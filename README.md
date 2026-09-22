@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+#BookSwap
+BookSwap is a mobile application (frontend) designed to allow users to swap or sell used books at affordable prices. It promotes reusability and sustainable consumption of books. 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+#About
+This is the frontend implementation of BookSwap mobile application, developed as academic project which uses React Native and Expo. 
 
-## Get started
+#Contributions
+- Designed the wireframes, user interface and flow.
+- Developed functional frontend screens, interactive components, navigation, and functionality.
+- Performed basic manual UI and functional testing. 
 
-1. Install dependencies
+#Technology
+- React Native
+- Expo
+- JavaScript
+- Git/GitHub
 
-   ```bash
-   npm install
-   ```
+#Testing 
+Basic manual testing on the frontend features:
+- UI elements and layout
+- Navigation and screen transitions
+- Buttons and user interaction
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+#Status
+Academic Project/ Frontend Implementation 
